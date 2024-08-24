@@ -31,15 +31,8 @@ const ProjectCardData = [
     imgsrc: pro5,
     title: "Blog Website Design",
     text: "This blog website is built using the MERN stack (MongoDB, Express.js, React.js, Node.js) to provide a modern, responsive platform for users to create, read, update, and delete blog posts. The front end is designed with React.js, ensuring a seamless and dynamic user experience. On the back end, Node.js and Express.js handle server-side operations, while MongoDB manages the storage of blog data. The website features user-friendly navigation, rich text editing capabilities, and a secure database to store and manage content efficiently.",
-    view: "https://github.com/kumaresan9176773252/Blog-App.git",
+    view: "https://blog-app-frontend-xpp0.onrender.com",
     source: "https://github.com/kumaresan9176773252/Blog-App.git",
-  },
-  {
-    imgsrc: pro4,
-    title: "AUTHENTICATION Design",
-    text: "This authentication website is developed using the MERN stack (MongoDB, Express.js, React.js, Node.js) to provide a secure and efficient user authentication system. The front end, built with React.js, offers a responsive and interactive interface for users to register, log in, and manage their accounts. On the back end, Node.js and Express.js are employed to handle authentication processes, including password hashing and token generation. MongoDB serves as the database, securely storing user credentials and session information. The website ensures robust security features, including JWT-based authentication and input validation, to protect user data.",
-    view: "https://github.com/kumaresan9176773252/AUTHENTICATION.git",
-    source: "https://github.com/kumaresan9176773252/AUTHENTICATION.git",
   },
   {
     imgsrc: pro6,
@@ -47,6 +40,13 @@ const ProjectCardData = [
     text: "This bookstore website, built using the MERN stack (MongoDB, Express.js, React.js, Node.js), offers a modern platform for browsing, purchasing, and managing books. The front end, developed with React.js, provides a responsive interface for exploring book categories, searching titles, and viewing detailed information. The back end, powered by Node.js and Express.js, manages user accounts, orders, and inventory, while MongoDB efficiently handles data storage. Key features include a shopping cart, wishlist, and secure payment gateway for a seamless online shopping experience.",
     view: "https://book-store-frontend-hx58.onrender.com",
     source: "https://github.com/kumaresan9176773252/Book-Store.git",
+  },
+  {
+    imgsrc: pro4,
+    title: "AUTHENTICATION Design",
+    text: "This authentication website is developed using the MERN stack (MongoDB, Express.js, React.js, Node.js) to provide a secure and efficient user authentication system. The front end, built with React.js, offers a responsive and interactive interface for users to register, log in, and manage their accounts. On the back end, Node.js and Express.js are employed to handle authentication processes, including password hashing and token generation. MongoDB serves as the database, securely storing user credentials and session information. The website ensures robust security features, including JWT-based authentication and input validation, to protect user data.",
+    view: "https://authentication-frontend-vq2v.onrender.com",
+    source: "https://github.com/kumaresan9176773252/AUTHENTICATION.git",
   },
 ];
 
