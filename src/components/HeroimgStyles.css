@@ -40,13 +40,25 @@
     font-size: 1.4rem;
     font-weight: 200;
 }
-.content .btn{
-    margin: 1rem 0.2rem;
+.content .btn {
+    margin: 1rem 0.3rem; /* Adjusted spacing between buttons */
 }
 
+.content .btn-dark {
+    display: block; /* Make the button take up the full width */
+    margin: 1.5rem auto 0; /* Add top margin to push it below the other buttons */
+    width: fit-content; /* Ensure the button fits the content */
+    padding: 0.6rem 1.2rem; /* Adjust padding for better look */
+    background-color: #333; /* Background color for the CV button */
+    color: #fff; /* Text color for the CV button */
+    text-align: center; /* Center the text */
+    border-radius: 10px; /* Optional: rounded corners */
+    text-decoration: none; /* Remove underline */
+}
 
-
-
+.content .btn-dark:hover {
+    background-color: #555; 
+}
 
 
 @media screen and (max-width:640px) {
