@@ -17,7 +17,7 @@ const ProjectCardData = [
     imgsrc: pro2,
     title: "Trip Website Design",
     text: "Welcome to our trip website! We offer a wide range of travel options, including flights, accommodations, tours, and activities. Our website is user-friendly and helps you compare prices and read reviews. Our team of travel experts is available to assist you with any questions or concerns. Let us help you plan your next dream vacation!",
-    view: "https://1618sr.csb.app/",
+    view: "https://trip-website.onrender.com",
     source: "https://github.com/kumaresan9176773252/Trip-Website.git",
   },
   {
