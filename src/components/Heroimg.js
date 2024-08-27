@@ -3,6 +3,7 @@ import "./HeroimgStyles.css"
 import React from 'react'
 import IntroImg from "../assets/intro-bg.jpg";
 import { Link } from "react-router-dom";
+import CV from "../assets/S Kumaresan.pdf";
 const Heroimg = () => {
   return (
     <div className="hero">
@@ -16,6 +17,7 @@ const Heroimg = () => {
         <div>
             <Link to="/project" className="btn">Project</Link>
             <Link to="/contact" className="btn btn-light">Contact</Link>
+     <a href={CV} download className="btn btn-dark">Download CV</a>
         </div>
       </div>
     </div>
